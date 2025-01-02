@@ -19,7 +19,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: '',
+    homeURL: 'https://rho.co',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
